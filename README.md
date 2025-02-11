@@ -39,7 +39,7 @@ I'm a MERN Stack Web Developer with expertise in MongoDB, Express.js, React.js, 
  <div>
    <a href="https://www.linkedin.com/in/devmehedirony" target="blank"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50"></a>
       <a href="https://x.com/devmehedirony" target="blank"><img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="50"> </a>
-    <a href="https://facebook.com/devmehedirony" target="blank"><img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="50"></a>
+    <a href="https://facebook.com/devmehedironys" target="blank"><img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="50"></a>
   <a href="https://discord.com/channels/devmehedirony" target="blank"><img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="50"></a>
  </div>
  
