@@ -1,4 +1,4 @@
-![banner](./banner.gif)
+[<img src='https://github.com/devmehedirony/devmehedirony/blob/main/assets/banner.gif/' alt='Mehedi Hasan'>](https://github.com/devmehedirony/)
 
  **`Front-End Developer | Mern Stack Enthusiast`**
 
